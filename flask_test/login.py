@@ -7,4 +7,7 @@ def login():
     # 其他人定义的变量num1
     num1 = 1
 
+    # dev 增加变量
+    num4 = 4444
+
     return "success"
