@@ -6,7 +6,11 @@ app = Flask(__name__)
 
 def test_git():
     """test函数"""
+    # Zhangsan operation
     num = 1
+
+    # Manager operation
+    num1 = 2
 
 
 @app.route('/')
