@@ -4,6 +4,11 @@ from flask import Flask
 app = Flask(__name__)
 
 
+def test_git():
+    """test函数"""
+    num = 1
+
+
 @app.route('/')
 def index()
     """the First page"""
