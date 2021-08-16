@@ -11,6 +11,7 @@ def test_git():
 
     # Manager operation
     num1 = 2
+    num2 = 22
 
 
 @app.route('/')
